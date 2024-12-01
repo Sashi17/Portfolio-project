@@ -606,7 +606,7 @@ footer{
     justify-content: space-between;
     align-items: center;
 }
-.footfadedtext{
+.footfadedtxt{
     position:absolute;
     left:0;
     bottom:0;
@@ -631,6 +631,7 @@ footer{
 .icon-wrapper{
     display:flex;
     gap:1rem;
+    color: white;
 }
 
 
